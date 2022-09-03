@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolbolesya)](https://github.com/dolbolesya/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolbolesya)](https://github.com/dolbolesya)
 
 
 ### Hi there 👋
