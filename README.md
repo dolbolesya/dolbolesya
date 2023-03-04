@@ -6,7 +6,11 @@
   <img src="https://profile-counter.glitch.me/dolbolesya/count.svg" />
 </p>
 
-<a href="https://www.codewars.com/packs/assets/logo.61192cf7.svg" rel="some text">![CodeWars](https://www.codewars.com/users/dolbolesya)</a>
-
+<p>
+  <a href="https://www.codewars.com/users/dolbolesya">
+    <img src="https://www.codewars.com/users/dolbolesya/badges/large">
+  </a> 
+  
+</p>
 <!--
 **dolbolesya/dolbolesya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
