@@ -50,7 +50,7 @@
    - **Technologies:** Tailwind CSS, Next.js  
    - **Description:** Focused exclusively on adaptive page layout and design implementation.  
 
-4. **[Freelance: NDA Project, Sep 2024 – Present]**  
+4. **[Freelance: NDA Project, Sep 2024 – Nov 2024]**  
    - **Role:** Fullstack Developer  
    - **Technologies:**  
      - **Backend:** ASP.NET Core (Web API)  
