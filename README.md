@@ -65,6 +65,6 @@
 
 ### 📬 Contacts
 
-- **Email:** [zylynzy@gmail.com](mailto:zylynzy@gmail.com)  
+- **Email:** [o.solomyaniy@gmail.com](mailto:o.solomyaniy@gmail.com)  
 - **LinkedIn:** [Oleksii Solomianyi](https://www.linkedin.com/in/osolomianyi/)  
 - **Instagram:** [@o.solomianyi](https://www.instagram.com/o.solomianyi/)  
