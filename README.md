@@ -1,15 +1,13 @@
 # Oleksii Solomianyi — Fullstack Developer
 
----
-
-## 📬 Contacts
-
+📬 **Contacts:**  
 - Email: [o.solomyaniy@gmail.com](mailto:o.solomyaniy@gmail.com)  
 - LinkedIn: [Oleksii Solomianyi](https://www.linkedin.com/in/osolomianyi/)  
-- Instagram: [@o.solomianyi](https://www.instagram.com/o.solomianyi/)  
-## 🛠️ Technologies and Tools
+- Instagram: [@o.solomianyi](https://www.instagram.com/o.solomianyi/)
 
 ---
+
+## 🛠️ Technologies and Tools
 
 ### Frontend  
 <p align="start">
