@@ -4,6 +4,7 @@
 - Email: [o.solomyaniy@gmail.com](mailto:o.solomyaniy@gmail.com)  
 - LinkedIn: [Oleksii Solomianyi](https://www.linkedin.com/in/osolomianyi/)  
 - Instagram: [@o.solomianyi](https://www.instagram.com/o.solomianyi/)
+- Telegram: [@o_solomianyi](https://t.me/o_solomianyi)
 
 ---
 
